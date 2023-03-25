@@ -1,0 +1,15 @@
+h1{
+    border-bottom: 4px solid #d8dee4 !important;
+}
+
+h2{
+    border-bottom: 4px double #d8dee4;
+}
+
+h3{
+    border-bottom: 1px solid #d8dee4;
+}
+
+.ex-block{
+    border: 1px solid #d8dee4;
+}
